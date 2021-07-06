@@ -1,2 +1,2 @@
 # Yosh
-just some white guy.
+This is my repository 
